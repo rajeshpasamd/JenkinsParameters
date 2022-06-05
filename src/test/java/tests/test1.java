@@ -10,7 +10,7 @@ public class test1 {
 		System.out.println("#      Jenkins Parameters Session       #");
 		System.out.println("#########################################");
 		System.out.println("#########################################");
-		System.out.println("#           master BRANCH       #");
+		System.out.println("#               master BRANCH           #");
 		System.out.println("#########################################");
 
 	}
